@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @msguit
 - 👀 I’m interested in everything under the hood of K8s
-- 🌱 I’m currently learning for getting certified CKA...next CKAD and hopefully CKS
 - 💞️ I’m looking to collaborate on K8s
 - 📫 How to reach me https://www.linkedin.com/in/mano-guit-1343677/
 
